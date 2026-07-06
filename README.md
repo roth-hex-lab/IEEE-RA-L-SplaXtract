@@ -2,6 +2,8 @@
 
 **Tractable Gaussian Splatting via Open World Region-of-Interest Extraction and Refinement**
 
+This page is a duplicate of the first authors repo. The original webpage is available at: [Original Page](https://hannahhaensen.github.io/splatxtract/)
+
 ## Authors
 
 * [Hannah Schieber](https://hannahhaensen.github.io)
